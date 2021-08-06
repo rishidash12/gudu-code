@@ -1,2 +1,2 @@
-x <- "git"
-print(x)
+print("hello world")
+print("rishi")
