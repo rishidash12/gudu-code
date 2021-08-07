@@ -1,9 +1,8 @@
-#include<iostream.h>
-#include<stdio.h>
-void main()
+#include<iostream>
+using namespace std;
+int main()
 {
-  clrscr();
   cout<<"rishikesh";
   cout<<"bioinformatics";
-  getch();
+  return 0;
 }
